@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiloazure.Common", "wiloazure.Common\wiloazure.Common.csproj", "{7E1B2A06-C67C-409F-BF97-2384B1BA2C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiloazure.Function", "wiloazure.Function\wiloazure.Function.csproj", "{55334628-2D3D-48FE-9339-B7D234C79BC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiloazure.Functions", "wiloazure.Function\wiloazure.Functions.csproj", "{55334628-2D3D-48FE-9339-B7D234C79BC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiloazure.Test", "wiloazure.Test\wiloazure.Test.csproj", "{E352803D-5E43-4E28-8DEE-1E9759F215B9}"
 EndProject
