@@ -1,2 +1,2 @@
 # WiloAzure
-Este es un ejemplo de un Azure Funtion
+Este es un ejemplo de un Azure Function
