@@ -11,6 +11,6 @@ namespace wiloazure.Function.Entities
 
         public string TaskDescription { get; set; }
 
-        public bool IsCompletd { get; set; }
+        public bool IsCompleted { get; set; }
     }
 }
